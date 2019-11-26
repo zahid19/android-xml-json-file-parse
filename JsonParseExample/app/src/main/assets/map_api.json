@@ -1,0 +1,226 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 23.8705756,
+               "lng" : 90.40145630000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.8719215802915,
+                  "lng" : 90.40273598029151
+               },
+               "southwest" : {
+                  "lat" : 23.8692236197085,
+                  "lng" : 90.40003801970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/atm-71.png",
+         "id" : "a7e2e74798ad1e32e1640a7f970129ea88c92ff3",
+         "name" : "Trust Bank Limited | ATM Booth",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117984562300531800607/photos\"\u003eShariful Kader\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAa9LZvPm5MRZGlaVina6Yo1Lqlqkc2_Cb9wGXgEanft_oXK3Y1goZpFEjsXm_JlTavo5At53VkSDFfSrxQJ80iExZGRi3E9n0A_79u9zmzGuShZYGX9NTOvhfdQMwbTB7EhAYjUdjA8JlDsR8QwVzgHrnGhT7ncMf6pQ8yI3cSIvrML9XF6SxDw",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJ2e7zyjrEVTcROMU0H2wNMuE",
+         "plus_code" : {
+            "global_code" : "7MMGVCC2+6H"
+         },
+         "rating" : 4,
+         "reference" : "ChIJ2e7zyjrEVTcROMU0H2wNMuE",
+         "scope" : "GOOGLE",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 21,
+         "vicinity" : "Rajuk College Road, Dhaka"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 23.8713218,
+               "lng" : 90.3999965
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.8726844802915,
+                  "lng" : 90.4013454302915
+               },
+               "southwest" : {
+                  "lat" : 23.8699865197085,
+                  "lng" : 90.39864746970848
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/atm-71.png",
+         "id" : "7119f67e049ca484a8dc147bfb38d59fc3844813",
+         "name" : "AB Bank Limited | ATM Booth",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116253216951989019422/photos\"\u003eArman Hossain\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAkn7nSs2GJth0mMz_GF8gJO2nKxVAYMzniLqMIx2h5A3cvpViwO2X-UFRgvsMqd_Z_GBOD1p4UKEFRD5bfrE4lVFSZnwEDN4xjjgKxqJuY_zN76DqLxIcE0STDFbBBp_hEhDdkMzLWcCxJQc4XH77QDHxGhTgpkHoahxJz9TOWINHP-hzREqIQg",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJ9ZGBPTvEVTcRlt0tsSPJFyg",
+         "plus_code" : {
+            "global_code" : "7MMGV9CX+GX"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJ9ZGBPTvEVTcRlt0tsSPJFyg",
+         "scope" : "GOOGLE",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 9,
+         "vicinity" : "Syed Grand Center Plot-89, Road-28, Dhaka"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 23.8678061,
+               "lng" : 90.40079179999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.8691581302915,
+                  "lng" : 90.4021406302915
+               },
+               "southwest" : {
+                  "lat" : 23.8664601697085,
+                  "lng" : 90.39944266970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/atm-71.png",
+         "id" : "152b1175a4d246ae5a92b3d665154e78d831694f",
+         "name" : "Islami Bank Bangladesh Limited | ATM Booth",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2322,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105380700325607561118/photos\"\u003eTariqul Suman\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAEYgFTi07YV2idxq9czGr2KYkK2fGVZJ-WQpO-XPdI-tr9Ni6nqdb-XRFTkxkH5HExRmxVjgCWE493q6ztGTRDwJffnGhLsCeyXP6OS41FmFx_x561hHOuFNvbpX5kUWXEhBIIuN-P08yLXt5q8VO3h0mGhRqruy9omdlukpx1rGrjg68zlfzww",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJQdIZHSXEVTcR1n18_-x8ZTM",
+         "plus_code" : {
+            "global_code" : "7MMGVC92+48"
+         },
+         "rating" : 4,
+         "reference" : "ChIJQdIZHSXEVTcR1n18_-x8ZTM",
+         "scope" : "GOOGLE",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 26,
+         "vicinity" : "Shahajalal Avenue, Dhaka"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 23.867818,
+               "lng" : 90.4011723
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.8691758302915,
+                  "lng" : 90.40252083029149
+               },
+               "southwest" : {
+                  "lat" : 23.86647786970849,
+                  "lng" : 90.39982286970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/atm-71.png",
+         "id" : "d40020a86c886fa682d499e1a9056af61facb5bf",
+         "name" : "Dutch-Bangla Bank Limited | ATM Booth",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2592,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115400458191233571940/photos\"\u003eBowling Passion BGD\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAwoU_ETZqCMQpNxcdC_6zjjU2sMO9ntvv497a4hs4eMdBbc2XFltCMUXD7UpylP9hj5qUSNs-Y-cRXMSCV9d5b02UVc7oqM-cuIJX3mN8W1UgBQceHk4FnzDm-XLb159SEhCOq1vdKYvseuBFO8zvlfNWGhSXiI12nhQIumzMztlXyBGLsTydOg",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJqZimGyXEVTcRZNMJnyTbknI",
+         "plus_code" : {
+            "global_code" : "7MMGVC92+4F"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJqZimGyXEVTcRZNMJnyTbknI",
+         "scope" : "GOOGLE",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 26,
+         "vicinity" : "Uttara NH School, Azampur, Shahajalal Avenue, Dhaka"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 23.8677282,
+               "lng" : 90.4010531
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.8691393302915,
+                  "lng" : 90.4023986302915
+               },
+               "southwest" : {
+                  "lat" : 23.8664413697085,
+                  "lng" : 90.39970066970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/atm-71.png",
+         "id" : "045933735ac5a1e9bda756537fa2c41c07ada0ba",
+         "name" : "Rupali Bank Limited | ATM Booth",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2322,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105380700325607561118/photos\"\u003eTariqul Suman\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAaC3GQ1MIaeWoS659IXSUxz8g5pml8o4tBKrBJ0ueBZNjZb9beX0DkjThcBCVF6tTTn9ePqMKIJrdTprocFlk4LuAzRwuPhoV-2WfSDU6jmbv8IfnQuWDxh5nDFFzquR_EhBdapfUxkRy6FooQx-KDerRGhQNWLW-EwEFiDBQQx6ZGz9aWba_IA",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJmwV9GyXEVTcRjLoEMaylPV8",
+         "plus_code" : {
+            "global_code" : "7MMGVC92+3C"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJmwV9GyXEVTcRjLoEMaylPV8",
+         "scope" : "GOOGLE",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 15,
+         "vicinity" : "Shahajalal Avenue, Dhaka"
+      }
+   ],
+   "status" : "OK"
+}
