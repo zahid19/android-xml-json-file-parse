@@ -11,8 +11,7 @@ Data Parsing of XML and JSON file and display in TextView.
 
 import org.xmlpull.v1.XmlPullParser;\
 import org.xmlpull.v1.XmlPullParserException;\
-import org.xmlpull.v1.XmlPullParserFactory;\
-
+import org.xmlpull.v1.XmlPullParserFactory;
 
 # Important Classes and Methods for XML file Parsing used in this project:
 
@@ -28,8 +27,8 @@ Methods:
 # Class:	XmlPullParser
 Methods:
 	setFeature( XmlPullParser.FEATURE_PROCESS_NAMESPACES,false)
-	setInput(is, null);
-	getEventType();
+	setInput(is, null)
+	getEventType()
 	getName()
 	nextText()
 	next()
