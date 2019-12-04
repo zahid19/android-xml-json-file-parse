@@ -68,9 +68,9 @@ Methods:
 # Class:	InputStream
 Methods:
 
-	context.getAssets().open("map.xml");\
-	available();\
-	read(buffer);\
+	context.getAssets().open("map.xml");
+	available();
+	read(buffer);
 	close();
 
 # Class:	JSONArray
