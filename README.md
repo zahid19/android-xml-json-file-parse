@@ -13,6 +13,7 @@ import org.xmlpull.v1.XmlPullParser;\
 import org.xmlpull.v1.XmlPullParserException;\
 import org.xmlpull.v1.XmlPullParserFactory;
 
+
 # Important Classes and Methods for XML file Parsing used in this project:
 
 # Class: 	XmlPullParserFactory
@@ -27,12 +28,20 @@ Methods:
 # Class:	XmlPullParser
 Methods:
 	setFeature( XmlPullParser.FEATURE_PROCESS_NAMESPACES,false)
+
 	setInput(is, null)
+
 	getEventType()
+
 	getName()
+
 	nextText()
+
 	next()
+
 Fields:
 	XmlPullParser.END_DOCUMENT
+
 	XmlPullParser.START_TAG
+
 
