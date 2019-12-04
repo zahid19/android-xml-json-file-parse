@@ -57,25 +57,24 @@ import org.json.JSONArray;\
 import org.json.JSONException;\
 import org.json.JSONObject;\
 
-
 # Important Classes and Methods for JSON file Parsing used in this project:
 
 # Class: 	JSONObject
-Methods:
+Methods:\
 	getJSONArray("results");\
-	getString("name");\
+	getString("name");
 
 # Class:	InputStream
-Methods:
+Methods:\
 	context.getAssets().open("map.xml");\
 	available();\
 	read(buffer);\
-	close();\
+	close();
 
 # Class:	JSONArray
-Methods:
+Methods:\
 	getJSONObject(i);\
-	length()\
+	length()
 
 
 
