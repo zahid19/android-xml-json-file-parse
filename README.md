@@ -18,15 +18,21 @@ import org.xmlpull.v1.XmlPullParserFactory;
 
 # Class: 	XmlPullParserFactory
 Methods:
+
 	newInstance()
+
 	newPullParser()
+
 
 # Class:	InputStream
 Methods:
+
 	context.getAssets().open("map.xml");
+
 
 # Class:	XmlPullParser
 Methods:
+
 	setFeature( XmlPullParser.FEATURE_PROCESS_NAMESPACES,false)
 
 	setInput(is, null)
@@ -40,6 +46,7 @@ Methods:
 	next()
 
 Fields:
+
 	XmlPullParser.END_DOCUMENT
 
 	XmlPullParser.START_TAG
