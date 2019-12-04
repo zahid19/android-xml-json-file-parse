@@ -1,4 +1,4 @@
-# android-xml-json-file-parse
+# android-xml-and-json-file-parse
 This Project was created using Android Studio 3.4.2 
 
 # Language
@@ -50,5 +50,32 @@ Fields:
 	XmlPullParser.END_DOCUMENT
 
 	XmlPullParser.START_TAG
+
+# Packges used for JSON file Parsing:
+
+import org.json.JSONArray;\
+import org.json.JSONException;\
+import org.json.JSONObject;\
+
+
+# Important Classes and Methods for JSON file Parsing used in this project:
+
+# Class: 	JSONObject
+Methods:
+	getJSONArray("results");\
+	getString("name");\
+
+# Class:	InputStream
+Methods:
+	context.getAssets().open("map.xml");\
+	available();\
+	read(buffer);\
+	close();\
+
+# Class:	JSONArray
+Methods:
+	getJSONObject(i);\
+	length()\
+
 
 
